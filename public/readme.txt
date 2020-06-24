@@ -1,0 +1,1 @@
+This is a readme served by express in static folder.
